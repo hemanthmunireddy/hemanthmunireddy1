@@ -1,4 +1,5 @@
 Hi, I am Hemanth Munireddy                                                                              
+ 
  Educational Background                                                                                
                                                                                                      MS Mechatronics, Robotics and Automation Engineering                                           
 Michigan Technological University                                                          
